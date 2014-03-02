@@ -1,8 +1,8 @@
 QBWC.configure do |c|
   
   #Currently Only supported for single logins. 
-  c.username = "foo"
-  c.password = "bar"
+  c.username = "wduran"
+  c.password = "CanchaLlena"
   
   #Path to Company File (blank for open or named path or function etc..)
   c.company_file_path = ""
